@@ -84,7 +84,7 @@ header ul {
    background-attachment: fixed;
    background-size: cover;
    color: var(--cor3);
-   height: 84vh;
+   height: 75vh;
    align-items: center;
    flex-direction: column;
 
@@ -204,6 +204,9 @@ footer a:hover {
       padding-bottom: 20px;
       display: flex;
       flex-direction: column;
+   }
+   .principal {
+      height: 70vh;
    }
    .principal img {
       width: 100%;
